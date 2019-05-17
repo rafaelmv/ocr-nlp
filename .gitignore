@@ -139,5 +139,5 @@ dmypy.json
 # Ignore all local history of files
 .history
 
-internal-escala-7077578c0ee6.json
+keys/
 # End of https://www.gitignore.io/api/python,visualstudiocode
